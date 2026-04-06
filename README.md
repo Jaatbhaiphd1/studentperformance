@@ -5,7 +5,8 @@
 [![Azure](https://img.shields.io/badge/Azure-App%20Service-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)](https://azure.microsoft.com/en-us/services/app-service/)
 [![AWS](https://img.shields.io/badge/AWS-EC2%20%2B%20ECR-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)](https://aws.amazon.com/)
 [![Docker](https://img.shields.io/badge/Docker-Containerized-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://docker.com)
-[![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-CI%2FCD-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)](https://github.com/features/actions)
+[![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-CI%2FCD-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)](https://github.com/Jaatbhaiphd1/studentperformance
+/features/actions)
 [![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-1.7.0-red)](https://scikit-learn.org/)
 
 ## 🌟 **LIVE DEPLOYMENTS**
@@ -859,10 +860,12 @@ ssh -i your-key.pem ubuntu@your-ec2-public-ip
 # Click "New self-hosted runner" and follow instructions for Linux
 
 # Example commands (replace with your actual tokens):
-mkdir actions-runner && cd actions-runner
-curl -o actions-runner-linux-x64-2.311.0.tar.gz -L https://github.com/actions/runner/releases/download/v2.311.0/actions-runner-linux-x64-2.311.0.tar.gz
+mkdir actions-runner && cd actions-runnerhttps://github.com/Jaatbhaiphd1/studentperformance
+
+curl -o actions-runner-linux-x64-2.311.0.tar.gz -L /actions/runner/releases/download/v2.311.0/actions-runner-linux-x64-2.311.0.tar.gz
 tar xzf ./actions-runner-linux-x64-2.311.0.tar.gz
-./config.sh --url https://github.com/JITESH-KUMAR05/studentperformance --token YOUR_TOKEN
+./config.sh --url https://github.com/Jaatbhaiphd1/studentperformance
+ --token YOUR_TOKEN
 ./run.sh
 
 # To run as service:
@@ -1206,7 +1209,8 @@ The system automatically selects the best performing model based on R² score:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Jitesh%20Kumar-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jiteshkumar05/)
 
-[![GitHub](https://img.shields.io/badge/GitHub-JITESH--KUMAR05-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JITESH-KUMAR05)
+[![GitHub](https://img.shields.io/badge/GitHub-JITESH--KUMAR05-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Jaatbhaiphd1/studentperformance
+)
 
 ---
 
@@ -1214,8 +1218,9 @@ The system automatically selects the best performing model based on R² score:
 
 If you found this project helpful, please give it a ⭐!
 
-[![GitHub stars](https://img.shields.io/github/stars/JITESH-KUMAR05/studentperformance?style=social)](https://github.com/JITESH-KUMAR05/studentperformance)
-[![GitHub forks](https://img.shields.io/github/forks/JITESH-KUMAR05/studentperformance?style=social)](https://github.com/JITESH-KUMAR05/studentperformance)
+[![GitHub stars](https://img.shields.io/github/stars/JITESH-KUMAR05/studentperformance?style=social)](https://github.com/Jaatbhaiphd1/studentperformance
+)
+[![GitHub forks](https://img.shields.io/github/forks/JITESH-KUMAR05/studentperformance?style=social)](https://github.com/Jaatbhaiphd1/studentperformance)
 
 </div>
 
